@@ -1,0 +1,65 @@
+
+body {
+margin: 0;
+font-family: 'Poppins', sans-serif;
+background: #1e1510;
+
+
+.header {
+    text-align: center;
+    padding: 30px 0;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+
+.main-section {
+    display: flex;
+    gap: 20px;
+    padding: 40px 60px;
+}
+
+.content h1 {
+    font-size: 48px;
+    margin: 0;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.content h3 {
+    color: #fdfdfd;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    color: #ffffff;
+}
+
+.quote-label {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 15px;
+}
+
+.quote {
+    font-size: 19px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+
+.footer {
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: auto;
+}
+}
